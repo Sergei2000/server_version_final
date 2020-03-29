@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sergei/Desktop/untitled1/main.cpp
+iostream
+-
+boost/asio.hpp
+-
+boost/thread/thread.hpp
+-
+boost/log/trivial.hpp
+-
+boost/thread/recursive_mutex.hpp
+-
+system_error
+-
+
