@@ -79,15 +79,15 @@ untitled1_EXTERNAL_OBJECTS =
 
 untitled1: CMakeFiles/untitled1.dir/main.cpp.o
 untitled1: CMakeFiles/untitled1.dir/build.make
-untitled1: /usr/lib/x86_64-linux-gnu/libboost_system.so
-untitled1: /usr/lib/x86_64-linux-gnu/libboost_filesystem.so
-untitled1: /usr/lib/x86_64-linux-gnu/libboost_thread.so
-untitled1: /usr/lib/x86_64-linux-gnu/libboost_log.so
-untitled1: /usr/lib/x86_64-linux-gnu/libboost_log_setup.so
-untitled1: /usr/lib/x86_64-linux-gnu/libboost_chrono.so
-untitled1: /usr/lib/x86_64-linux-gnu/libboost_date_time.so
-untitled1: /usr/lib/x86_64-linux-gnu/libboost_atomic.so
-untitled1: /usr/lib/x86_64-linux-gnu/libboost_regex.so
+untitled1: /usr/local/lib/libboost_system.so.1.73.0
+untitled1: /usr/local/lib/libboost_log_setup.so.1.73.0
+untitled1: /usr/local/lib/libboost_log.so.1.73.0
+untitled1: /usr/local/lib/libboost_filesystem.so.1.73.0
+untitled1: /usr/local/lib/libboost_thread.so.1.73.0
+untitled1: /usr/local/lib/libboost_atomic.so.1.73.0
+untitled1: /usr/local/lib/libboost_chrono.so.1.73.0
+untitled1: /usr/local/lib/libboost_date_time.so.1.73.0
+untitled1: /usr/local/lib/libboost_regex.so.1.73.0
 untitled1: CMakeFiles/untitled1.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/sergei/Desktop/untitled1/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable untitled1"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/untitled1.dir/link.txt --verbose=$(VERBOSE)

@@ -11,7 +11,22 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="035f3566-8c49-45e5-9ddd-59760ef2ada5" name="Default Changelist" comment="" />
+    <list default="true" id="035f3566-8c49-45e5-9ddd-59760ef2ada5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/untitled1.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/untitled1.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/untitled1.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/untitled1.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/untitled1.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/untitled1.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/untitled1.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/untitled1.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/untitled1.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/untitled1.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/untitled1.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/untitled1.dir/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/untitled1" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/untitled1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/untitled1.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/untitled1.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,10 +37,14 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZioxqXYmttvszja8fBmfMGYCkN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../crawler_1" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -61,10 +80,62 @@
       <workItem from="1585339371919" duration="8636000" />
       <workItem from="1585379056835" duration="12894000" />
       <workItem from="1585468922969" duration="904000" />
+      <workItem from="1585471153812" duration="61000" />
+      <workItem from="1585481754211" duration="3071000" />
+      <workItem from="1585561608350" duration="37000" />
+      <workItem from="1585564252924" duration="1586000" />
+      <workItem from="1585655994629" duration="37000" />
+      <workItem from="1585657154622" duration="165000" />
+      <workItem from="1585665921389" duration="35000" />
+      <workItem from="1585668560921" duration="61000" />
+      <workItem from="1585668982917" duration="64000" />
+      <workItem from="1585669141350" duration="21000" />
+      <workItem from="1585735306054" duration="193000" />
+      <workItem from="1585821436864" duration="100000" />
+      <workItem from="1585913483299" duration="43000" />
+      <workItem from="1586255422627" duration="25000" />
+      <workItem from="1586257573275" duration="1063000" />
+      <workItem from="1586258676003" duration="61000" />
+      <workItem from="1586258818604" duration="62000" />
+      <workItem from="1586258970004" duration="376000" />
+      <workItem from="1586260043884" duration="188000" />
+      <workItem from="1586261026816" duration="167000" />
+      <workItem from="1586269049546" duration="115000" />
+      <workItem from="1586331404846" duration="1359000" />
+      <workItem from="1586332931038" duration="91000" />
+      <workItem from="1586333139024" duration="54000" />
+      <workItem from="1586335978825" duration="99000" />
+      <workItem from="1586336123015" duration="49000" />
+      <workItem from="1586339113135" duration="90000" />
+      <workItem from="1586340512632" duration="98000" />
+      <workItem from="1586341884875" duration="43000" />
+      <workItem from="1586367367365" duration="54000" />
+      <workItem from="1586427581346" duration="62000" />
+      <workItem from="1586462007062" duration="82000" />
+      <workItem from="1586522842506" duration="41000" />
+      <workItem from="1586589094818" duration="601000" />
+      <workItem from="1586589745382" duration="82000" />
+      <workItem from="1586591030106" duration="52000" />
+      <workItem from="1586679020951" duration="15000" />
+      <workItem from="1586704767034" duration="69000" />
+      <workItem from="1586705797128" duration="27000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
